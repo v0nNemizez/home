@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.b130c9a1.js",
+    "main.js": "/home/static/js/main.464fe89f.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/Eika_logo.jpg": "/home/static/media/Eika_logo.1f1526e59d4da0415000.jpg",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.b130c9a1.js.map": "/home/static/js/main.b130c9a1.js.map",
+    "main.464fe89f.js.map": "/home/static/js/main.464fe89f.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.b130c9a1.js"
+    "static/js/main.464fe89f.js"
   ]
 }
